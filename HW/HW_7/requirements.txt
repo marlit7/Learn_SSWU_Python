@@ -1,0 +1,10 @@
+# pip install -r requirements.txt
+# pip freeze
+# pip uninstall -r requirements.txt
+# pip freeze >> requirements.txt
+
+# ---- проект роботи із зображенням -----
+
+numpy>=1.26
+matplotlib>=3.9
+pillow>=10.2
